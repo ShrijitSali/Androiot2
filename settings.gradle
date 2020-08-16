@@ -1,0 +1,2 @@
+include ':app', ':androiot1', ':signup1', ':androiot2'
+rootProject.name='Andiot2'
